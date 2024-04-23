@@ -18,6 +18,3 @@ The data used in this project is accessed directly from [Demo Dataverse](demo.Da
 
 ### Usage
 To run this project, the user must simply install the follow dependencies: scikit-learn, gensim, matplotlib, pandas, wordcloud, nltk, seaborn. For more a description of the main components of this project, word embedding and machine learning, visit the documentation: [Doc2Vec](https://radimrehurek.com/gensim/models/doc2vec.html) and [scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
-
-### Contact Information
-If you have questions or concerns, feel free to contact me via email at jsteed@vols.utk.edu.
